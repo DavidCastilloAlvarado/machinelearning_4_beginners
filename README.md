@@ -11,7 +11,7 @@ X_input = [X1, X2]
 Y_output = {-1,1}
 
 # Algoritmo
-Sea: Perceptron{{X^i,Y^i,i=1,…,n},T}
+Sea: Perceptron{{X^i,Y^i,i=1,…,n},T}\n
 Se inicializan W y bias con valores en cero 
 For t = 1,...,T then
       For i = 1,...,n then
