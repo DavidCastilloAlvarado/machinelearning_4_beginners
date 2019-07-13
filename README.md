@@ -14,9 +14,9 @@ they can create his own model or undestrand how a neural-network works.
 # Algoritmo
 #### Sea: Perceptron{{X^i,Y^i,i=1,…,n},T}
 #### Se inicializan W y bias con valores en cero 
-#### For t = 1,...,T then
-####      For i = 1,...,n then
-####           If 〖Y^i*(W〗_t*X^i+bias)≤0 then
-####                Update W_(t+1)←W_t+Y^i*X^i    
-####                Update bias ←bias+Y^i
+####   For t = 1,...,T then
+####        For i = 1,...,n then
+####             If 〖Y^i*(W〗_t*X^i+bias)≤0 then
+####                  Update W_(t+1)←W_t+Y^i*X^i    
+####                  Update bias ←bias+Y^i
 
